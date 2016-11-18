@@ -1,0 +1,82 @@
+.line {
+	fill: none;
+	stroke: darkred;
+	stroke-width: 2px;
+}
+
+.sineLine {
+	fill: none;
+	stroke: darkblue;
+	stroke-width: 2px;
+}
+
+.equationLine {
+	fill: none;
+	stroke: steelblue;
+	stroke-width: 2px;
+}
+
+circle{
+	fill: white;
+	stroke: steelblue;
+	r:4;
+}
+
+h1 {
+	text-align: center;
+}
+
+.bars {
+	margin: 2px;
+	background-color: steelblue;
+	text-align: right;
+	color: white;
+	padding: 5px;
+}
+
+.text {
+	text-align: center;
+}
+
+p {
+	display: inline;
+}
+
+.subject {
+	display: inline-block;
+	border-radius: 25px;
+	padding: 7px;
+	text-align: center; 	
+}
+
+.numbers {
+	display: inline-block;
+	text-align: center;
+	fill: none;
+	margin: 5px;
+	border: solid 1px;
+	vertical-align: top;
+}
+
+.tableContainer {
+	background-color: lightgrey;
+	width: 100%;
+}
+
+th, td {
+	width: 1%;
+	text-align: center;
+	border-right: solid 1px;
+	border-bottom: solid 1px;
+}
+
+table {
+	line-height: 20px;
+	border-left: solid 1px;
+	border-top: solid 1px;
+}
+
+.shape {
+	fill:none;
+	stroke-width: 2px;
+}
